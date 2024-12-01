@@ -1,5 +1,12 @@
-## Hi there 👋
+MARTIN PAVLIS
+Decision Maker, Trusted Advisor and Business Consultant in Praha, Česká republika
 
+Martin Pavlis vystudoval Konzervatoř v Praze a možná hudební nadání převtělil v souznění mezi aplikacemi a počítači, která přes 15 let aktivně školil, především v počítačové škole GOPAS. Je jedním ze zakladatelů společnosti KPCS CZ, ve které nyní významně ovlivňuje její další směřování vzhledem k probíhajícím změnám na poli technologií a proměnám stávajícího IT. Dále se zabývá odbornou publikační činností, je držitelem mnoha nejen technických Microsoft titulů, přednáší na konferencích a pravidelně publikuje odborné články tam, kde to má svůj smysl. Veškerý volný čas věnuje své rodině. Ve volných chvílích se stále aktivně věnuje hudbě, hraje na kytaru. Rád cestuje a pokud to jde, své zážitky sepisuje vtipnou, nebo alespoň zajímavou formou.
+
+Motto:
+„Násilí je posledním útočištěm neschopných.“ – Salvor Hardin, Nadace
+
+LinkedIn: https://cz.linkedin.com/in/mpavlis
 <!--
 **mpavlis76/mpavlis76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
